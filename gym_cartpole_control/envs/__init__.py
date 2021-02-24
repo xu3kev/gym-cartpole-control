@@ -1,1 +1,1 @@
-from gym_soccer.envs.cartpole_control import CartPoleControl
+from gym_cartpole_control.envs.cartpole_control_env import CartPoleControlEnv
